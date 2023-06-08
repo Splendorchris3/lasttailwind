@@ -807,6 +807,10 @@ video {
   padding-top: 1rem;
 }
 
+.pt-2 {
+  padding-top: 0.5rem;
+}
+
 .text-center {
   text-align: center;
 }
@@ -915,6 +919,10 @@ video {
 
   .md\:items-center {
     align-items: center;
+  }
+
+  .md\:overflow-y-auto {
+    overflow-y: auto;
   }
 
   .md\:text-center {
